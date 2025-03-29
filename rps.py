@@ -2,7 +2,7 @@ import random
 import os
 import re
 
-#Comment
+# Comment
 def check_play_status():
     print('Play Status');
 
